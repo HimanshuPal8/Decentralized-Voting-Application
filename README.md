@@ -9,5 +9,6 @@ The main objective of this project is to conduct  elections in more secure, reli
 <img width="950" alt="project2" src="https://user-images.githubusercontent.com/82956951/153767071-72c58836-dfa0-4b2f-aa15-0567beca427d.png">
 
 * Results
-<img width="950" alt="project2" src="https://user-images.githubusercontent.com/82956951/153767071-72c58836-dfa0-4b2f-aa15-0567beca427d.png">
+<img width="841" alt="project3" src="https://user-images.githubusercontent.com/82956951/153767081-53094dd7-858c-47aa-baed-287b3c03b540.png">
+
 
